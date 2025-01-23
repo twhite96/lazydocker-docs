@@ -6,6 +6,7 @@ The location of the user config will differ depending on your OS. You can open i
 
 Changes to the user config will only take place after closing and re-opening lazydocker
 
+
 ### Locations:
 
 - OSX: `~/Library/Application Support/jesseduffield/lazydocker/config.yml`
